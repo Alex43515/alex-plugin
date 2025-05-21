@@ -36,8 +36,10 @@ body {
     margin: 10px 0;
 }
 
-.game {
+
+.signup {
     padding: 40px 20px;
+    background: #fff3f6;
 }
 
 footer {
